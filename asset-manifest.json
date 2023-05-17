@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/dhavaltour/static/css/main.9a56f149.css",
+    "main.js": "/dhavaltour/static/js/main.a84c16df.js",
+    "static/js/787.314474ed.chunk.js": "/dhavaltour/static/js/787.314474ed.chunk.js",
+    "static/media/carousel-1.jpg": "/dhavaltour/static/media/carousel-1.6c7b3b2ad958cf25deb0.jpg",
+    "static/media/carousel-2.jpg": "/dhavaltour/static/media/carousel-2.bdfe069e342315fd0b17.jpg",
+    "static/media/bootstrap-icons.woff?": "/dhavaltour/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/dhavaltour/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/destination-5.jpg": "/dhavaltour/static/media/destination-5.dc9c06f4ed7e31eee0a9.jpg",
+    "static/media/team-1.jpg": "/dhavaltour/static/media/team-1.19575d0f0ae6975877c3.jpg",
+    "static/media/destination-4.jpg": "/dhavaltour/static/media/destination-4.aeb22d91098aec94aae2.jpg",
+    "static/media/destination-2.jpg": "/dhavaltour/static/media/destination-2.68fa2b29b0dc9d293ddb.jpg",
+    "static/media/destination-1.jpg": "/dhavaltour/static/media/destination-1.dc764f672b17bdab72cf.jpg",
+    "static/media/destination-6.jpg": "/dhavaltour/static/media/destination-6.e26799a772963e3e0188.jpg",
+    "static/media/destination-3.jpg": "/dhavaltour/static/media/destination-3.cdff8ee51ab539163ecd.jpg",
+    "static/media/team-2.jpg": "/dhavaltour/static/media/team-2.f7de3f7285dae6d54921.jpg",
+    "static/media/team-3.jpg": "/dhavaltour/static/media/team-3.3d4090b04d58ee73aaf2.jpg",
+    "static/media/team-4.jpg": "/dhavaltour/static/media/team-4.0461dea9bcadcf04a287.jpg",
+    "index.html": "/dhavaltour/index.html",
+    "main.9a56f149.css.map": "/dhavaltour/static/css/main.9a56f149.css.map",
+    "main.a84c16df.js.map": "/dhavaltour/static/js/main.a84c16df.js.map",
+    "787.314474ed.chunk.js.map": "/dhavaltour/static/js/787.314474ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a56f149.css",
+    "static/js/main.a84c16df.js"
+  ]
+}
